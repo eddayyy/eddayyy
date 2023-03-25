@@ -3,7 +3,7 @@
 </div>
 
 <details>
-<summary> <b> Table of Contents </b> (click to expand) </summary>
+<summary> <b> Table of Contents </b></summary>
 
 1. [Introduction](#introduction)
 2. [Skills](#skills)
