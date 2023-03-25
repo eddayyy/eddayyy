@@ -9,11 +9,11 @@ Hi there! I'm Eduardo nunez, a 3rd-Year Computer Science student with experience
 ## Skills
 
 - C/C++
-- HTML
-- CSS
 - Python
 - Assembly
 - Bash
+- HTML
+- CSS
 - Linux
 - Algorithm Analysis
 
