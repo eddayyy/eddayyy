@@ -8,7 +8,7 @@ Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience
 
 - **Programming Languages:** C/C++, Python, Assembly, Bash
 - **Web Development:** HTML, CSS
-- **Operating Systems:** Linux
+- **Operating Systems:** Linux, Windows
 - **Algorithm Analysis**
 
 ## Projects
@@ -22,6 +22,9 @@ This project was developed using only C++, there are 2 versions of this game.
 ### Portfolio Website
 
 Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
+- **Progamming Languages:** HTML, CSS
+- **Technologies:** GitHub
+- **Skills Developed:** Self Learning, Project Management
 
 ### Links 
 [Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
