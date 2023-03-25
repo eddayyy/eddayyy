@@ -1,12 +1,3 @@
-<html>
-  <head>
-    <style>
-      body {
-        background-color: #f2f2f2;
-      }
-    </style>
-  </head>
-  <body>
 # Eduardo Nunez
 
 ## Introduction
@@ -40,5 +31,3 @@ Developed a personal website by self-learning HTML and CSS. This website was dep
 [Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/eduardong/)
- </body>
-</html> 
