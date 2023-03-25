@@ -1,5 +1,4 @@
 # Eduardo Nunez 
-[Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
 
 ## Introduction
 
@@ -15,6 +14,7 @@ Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience
 - CSS
 - Linux
 - Algorithm Analysis
+[Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
 
 ## Projects
 
