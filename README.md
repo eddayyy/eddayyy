@@ -1,7 +1,5 @@
 # Eduardo Nunez
 
-![Profile Picture](https://avatars.githubusercontent.com/eddayyy)
-
 ## Introduction
 
 Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
