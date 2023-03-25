@@ -1,4 +1,5 @@
-# Eduardo Nunez [Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
+# Eduardo Nunez 
+[Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
 
 ## Introduction
 
