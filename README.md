@@ -15,6 +15,9 @@ Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience
 - Linux
 - Algorithm Analysis
 
+## Resume
+[Resume](https://github.com/eddayyy/resume/blob/master/EduardoNunezResume.pdf)
+
 ## Projects
 
 ### Tic-Tac-Toe Game with AI 
