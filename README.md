@@ -20,6 +20,8 @@ This project was developed using only C++, there are 2 versions of this game.
 - **Version 1:** Traditional 2 Player Tic-Tac-Toe that any 2 humans can play
 - **Version 2:** Single player Tic-Tac-Toe where the human plays against an AI. This AI runs off of the alpha-beta pruning algorithm and plays to prevent the user from winning. 
 
+# Horizontal Rule
+
 ### Portfolio Website
 
 Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
