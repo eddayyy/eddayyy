@@ -1,35 +1,36 @@
+<div align="center">
+
 # Eduardo Nunez
 
 </div>
 
-## <span style="color: #0c83e0;">Introduction</span>
+## Introduction
 
-Hi there! I'm <span style="color: #0c83e0;">Eduardo Nunez</span>, a 3rd-Year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
+Hi there! I'm **Eduardo Nunez**, a 3rd-Year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
 
-## <span style="color: #0c83e0;">Skills</span>
+## Skills
 
 - **Programming Languages:** C/C++, Python, Assembly, Bash
 - **Web Development:** HTML, CSS
 - **Operating Systems:** Linux
 - **Algorithm Analysis**
 
-## <span style="color: #0c83e0;">Projects</span>
+## Projects
 
-### <span style="color: #0c83e0;">Tic-Tac-Toe Game with AI</span> 
+### Tic-Tac-Toe Game with AI
 
-This project was developed using only C++, there are 2 versions of this game. 
+This project was developed using only C++, there are 2 versions of this game.
 - **Version 1:** Traditional 2 Player Tic-Tac-Toe that any 2 humans can play
-- **Version 2:** Single player Tic-Tac-Toe where the human plays against an AI. This AI runs off of the alpha-beta pruning algorithm and plays to prevent the user from winning. 
+- **Version 2:** Single player Tic-Tac-Toe where the human plays against an AI. This AI runs off of the alpha-beta pruning algorithm and plays to prevent the user from winning.
 
-### <span style="color: #0c83e0;">Portfolio Website</span>
+### Portfolio Website
 
 Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
 - **Progamming Languages:** HTML ∙ CSS
 - **Technologies:** GitHub
 - **Skills Developed:** Self Learning ∙ Project Management
 
-## <span style="color: #0c83e0;">Links</span> 
-[<span style="color: #0c83e0;">Resume</span>](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
+## Links
+[**Resume**](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
 
-[<span style="color: #0c83e0;">LinkedIn</span>](https://www.linkedin.com/in/eduardong/)
-
+[**LinkedIn**](https://www.linkedin.com/in/eduardong/)
