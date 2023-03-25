@@ -1,5 +1,8 @@
 # Eduardo Nunez
-
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 ## Introduction
 
 Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
