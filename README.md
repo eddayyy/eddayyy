@@ -28,3 +28,8 @@ Version 2: Single player Tic-Tac-Toe where the human plays against an AI. This A
 ### Portfolio Website
 
 Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
+
+### Links 
+[Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
+
+[LinkedIn](https://www.linkedin.com/in/eduardong/)
