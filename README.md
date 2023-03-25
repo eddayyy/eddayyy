@@ -1,6 +1,6 @@
 # Eduardo Nunez
 
-!(https://avatars.githubusercontent.com/eddayyy)
+https://avatars.githubusercontent.com/eddayyy
 
 ## Introduction
 
