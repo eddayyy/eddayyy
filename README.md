@@ -1,7 +1,3 @@
-<div align="center">
-
-![Eduardo Nunez](profile_picture.jpg)
-
 # Eduardo Nunez
 
 </div>
