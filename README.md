@@ -1,4 +1,4 @@
-# Eduardo Nunez 
+# Eduardo Nunez
 
 ## Introduction
 
@@ -6,24 +6,18 @@ Hi there! I'm Eduardo Nunez, a 3rd-Year Computer Science student with experience
 
 ## Skills
 
-- C/C++
-- Python
-- Assembly
-- Bash
-- HTML
-- CSS
-- Linux
-- Algorithm Analysis
-
-[Resume](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
+- **Programming Languages:** C/C++, Python, Assembly, Bash
+- **Web Development:** HTML, CSS
+- **Operating Systems:** Linux
+- **Algorithm Analysis**
 
 ## Projects
 
 ### Tic-Tac-Toe Game with AI 
 
 This project was developed using only C++, there are 2 versions of this game. 
-Version 1: Traditional 2 Player Tic-Tac-Toe that any 2 humans can play
-Version 2: Single player Tic-Tac-Toe where the human plays against an AI. This AI runs off of the alpha-beta pruning algorithm and plays to prevent the user from winning. 
+- **Version 1:** Traditional 2 Player Tic-Tac-Toe that any 2 humans can play
+- **Version 2:** Single player Tic-Tac-Toe where the human plays against an AI. This AI runs off of the alpha-beta pruning algorithm and plays to prevent the user from winning. 
 
 ### Portfolio Website
 
