@@ -2,14 +2,12 @@
 
 </div>
 
-<details>
 # Table of Contents
 
 1. [Introduction](#introduction)
 2. [Skills](#skills)
 3. [Projects](#projects)
 4. [Links](#links)
-</details>
 
 ## <span style="color: #0c83e0;">Introduction</span>
 
