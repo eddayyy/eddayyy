@@ -2,13 +2,6 @@
 
 </div>
 
-# Table of Contents
-
-1. [Introduction](#introduction)
-2. [Skills](#skills)
-3. [Projects](#projects)
-4. [Links](#links)
-
 ## <span style="color: #0c83e0;">Introduction</span>
 
 Hi there! I'm <span style="color: #0c83e0;">Eduardo Nunez</span>, a 3rd-Year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
