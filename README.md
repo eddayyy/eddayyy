@@ -29,6 +29,4 @@ Developed a personal website by self-learning HTML and CSS. This website was dep
 - **Skills Developed:** Self Learning ∙ Project Management
 
 ## Links
-[**Resume**](https://github.com/eddayyy/eddayyy/blob/main/EduardoNunez_resume.pdf)
-
 [**LinkedIn**](https://www.linkedin.com/in/eduardong/)
