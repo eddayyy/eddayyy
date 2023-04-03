@@ -29,7 +29,7 @@ Developed a chess engine that supports both human vs human and human vs AI modes
 
 - **Programming Languages:** C++
 - **Technologies:** GitHub, Visual Studio, SDL Library
-- **Skills Developed:** Computer graphics, Algorithms, Data Structures, Object oriented programming, Dynamic Programming 
+- **Skills Developed:** Computer Graphics, Algorithms, Data Structures, Object Oriented Programming, Dynamic Programming 
 
 
 ### Portfolio Website
