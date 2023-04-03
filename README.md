@@ -25,11 +25,11 @@ Developed a Tic-Tac-Toe game with two versions, one for two human players and an
 
 ### Chess Engine
 
-Developed a chess engine that supports both human vs human and human vs AI modes. The project was built using C++ and SDL for the graphical interface. The AI opponent is powered by the alpha-beta pruning algorithm to optimize its decision-making process.
+Developed a chess engine that supports both human vs human and human vs AI modes. The project was built using C++ and the SDL library for the graphical interface. The AI opponent is powered by the alpha-beta pruning algorithm to optimize its decision-making process. Features include, AI component that can play against you or help you by suggesting good moves, legal move previews (blue squares represent legal moves for a selected piece), en passant, premoving, responsive piece drag and drop or click and drop. 
 
-- **Programming Languages:* C++
-- **Technologies:** SDL, GitHub
-- **Skills Developed:** AI Algorithms, Game Development, Graphical Interface
+- **Programming Languages:** C++
+- **Technologies:** GitHub, Visual Studio, SDL Library
+- **Skills Developed:** Computer graphics, Algorithms, Data Structures, Object oriented programming, Dynamic Programming 
 
 
 ### Portfolio Website
