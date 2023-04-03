@@ -23,6 +23,15 @@ Developed a Tic-Tac-Toe game with two versions, one for two human players and an
 - **Technologies:** GitHub
 - **Skills Developed:** AI Algorithms ∙ Game Development
 
+### Chess Engine
+
+Developed a chess engine that supports both human vs human and human vs AI modes. The project was built using C++ and SDL for the graphical interface. The AI opponent is powered by the alpha-beta pruning algorithm to optimize its decision-making process.
+
+- **Programming Languages:* C++
+- **Technologies:** SDL, GitHub
+- **Skills Developed:** AI Algorithms, Game Development, Graphical Interface
+
+
 ### Portfolio Website
 
 Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
