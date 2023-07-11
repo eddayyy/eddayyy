@@ -10,7 +10,7 @@ Hi there! I'm **Eduardo Nunez**, a 3rd-Year Computer Science student with experi
 
 ## Skills
 
-- **Programming Languages:** C/C++ ∙ Python ∙ Assembly ∙ Bash ∙ HTML ∙ CSS
+- **Programming Languages:** C/C++ ∙ Python ∙ Assembly ∙ HTML ∙ CSS
 - **Technologies:** Linux ∙ Visual Studio Code ∙ MySQL ∙ Windows Subsystem for Linux ∙ GIT ∙ AppJam+ ∙ Slack ∙ GitHub
 
 ## Projects
