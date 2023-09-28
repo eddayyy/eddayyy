@@ -15,6 +15,14 @@ Hi there! I'm **Eduardo Nunez**, a 4th year Computer Science student with experi
 
 ## Projects
 
+### Twitter/X Automated Weather Bot 
+
+Developed a Python-based automated system that tweets real-time weather updates for Fullerton, CA. These updates include sunrise / sunset times once a day, hourly weather updates, and weekly forecasts every Sunday. 
+
+- **Programming Languages:** Python
+- **Technlogies:** Github, Twitter's API Endpoints, Weatherbit's API Endpoints
+- **Skills Developed:** Experience with APIs
+
 ### Tic-Tac-Toe Game with AI
 
 Developed a Tic-Tac-Toe game with two versions, one for two human players and another with an AI opponent using the alpha-beta pruning algorithm. The project was developed solely in C++. The AI Runs off of the alpha-beta pruning algorithm.
