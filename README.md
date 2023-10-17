@@ -53,5 +53,11 @@ Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Van
 
 Developed a Python-based GUI program to assist educators in managing student grades efficiently. It aims to make the grading processes smooth, providing valuable insights into student and class performance through advanced data analysis. Features include import/export of CSV files, modification of student grades, recalculations of students' overall grade, export of statistics such as graphs, statistical analysis on an assignment basis, overall class grades. 
 
+-**Programming Languages:** Python ∙ CSS 
+-**Technologies:** Qt Framework 
+-**Skills Developed:** ADS ∙ System Design ∙ 
+
+
+
 ## Links
 [**LinkedIn**](https://www.linkedin.com/in/eduardong/)
