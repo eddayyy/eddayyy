@@ -16,7 +16,7 @@ MySQL ∙ GIT ∙ Slack ∙ Visual Studio
 
 ## Projects
 
-### Twitter/X Automated Weather Bot 
+### [Twitter/X Automated Weather Bot](https://github.com/eddayyy/WeatherFul-Bot) 
 
 Developed a Python-based automated system that tweets real-time weather updates for Fullerton, CA. These updates include sunrise / sunset times once a day, hourly weather updates, and weekly forecasts every Sunday. 
 
@@ -24,7 +24,7 @@ Developed a Python-based automated system that tweets real-time weather updates 
 - **Technlogies:** Github, Twitter's API Endpoints, Weatherbit's API Endpoints
 - **Skills Developed:** Experience with APIs
 
-### Tic-Tac-Toe Game with AI
+### [Tic-Tac-Toe Game with AI](https://github.com/eddayyy/TicTacToe)
 
 Developed a Tic-Tac-Toe game with two versions, one for two human players and another with an AI opponent using the alpha-beta pruning algorithm. The project was developed solely in C++. The AI Runs off of the alpha-beta pruning algorithm.
 
@@ -32,7 +32,7 @@ Developed a Tic-Tac-Toe game with two versions, one for two human players and an
 - **Technologies:** GitHub
 - **Skills Developed:** AI Algorithms ∙ Game Development
 
-### Chess Engine
+### Chess Engine (W.I.P)
 
 Developed a chess engine that supports both human vs human and human vs AI modes. The project was built using C++ and the SDL library for the graphical interface. The AI opponent is powered by the alpha-beta pruning algorithm to optimize its decision-making process. Features include, AI component that can play against you or help you by suggesting good moves, legal move previews (blue squares represent legal moves for a selected piece), en passant, premoving, responsive piece drag and drop or click and drop. 
 
@@ -41,7 +41,7 @@ Developed a chess engine that supports both human vs human and human vs AI modes
 - **Skills Developed:** Computer Graphics, Algorithms, Data Structures, Object Oriented Programming, Dynamic Programming 
 
 
-### Personal Website
+### [Personal Website](https://github.com/eddayyy/personal-website)
 
 Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Vanilla JS, hosted on GitHub Pages with a custom domain. The site showcases my educational backgorund, skills, and work experiences, enhanced with modern UI from Tailwind and dynamic visuals via Particles.js. Features include detailed project sections, embedded social media links via Iconify, and a custom domain for a professional appearance.
 
@@ -51,6 +51,7 @@ Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Van
 
 ### [Gradebook Application](https://github.com/eddayyy/Gradebook-Application)
 
+Developed a Python-based GUI program to assist educators in managing student grades efficiently. It aims to make the grading processes smooth, providing valuable insights into student and class performance through advanced data analysis. Features include import/export of CSV files, modification of student grades, recalculations of students' overall grade, export of statistics such as graphs, statistical analysis on an assignment basis, overall class grades. 
 
 ## Links
 [**LinkedIn**](https://www.linkedin.com/in/eduardong/)
