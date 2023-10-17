@@ -10,8 +10,9 @@ Hi there! I'm **Eduardo Nunez**, a 4th year Computer Science student with experi
 
 ## Skills
 
-- **Programming Languages:** C/C++ ∙ Python ∙ Assembly ∙ HTML ∙ CSS
-- **Technologies:** Linux ∙ Visual Studio Code ∙ MySQL ∙ Windows Subsystem for Linux ∙ GIT ∙ AppJam+ ∙ Slack ∙ GitHub
+- **Programming Languages:** C/C++ ∙ Python ∙ HTML ∙ CSS ∙ Javascript ∙ Assembly 
+- **Technologies:** Linux/UNIX ∙ Windows Subsystem for Linux ∙ AWS Lambda ∙ AWS S3 ∙ AWS EventBridge ∙
+MySQL ∙ GIT ∙ Slack ∙ Visual Studio
 
 ## Projects
 
@@ -40,9 +41,9 @@ Developed a chess engine that supports both human vs human and human vs AI modes
 - **Skills Developed:** Computer Graphics, Algorithms, Data Structures, Object Oriented Programming, Dynamic Programming 
 
 
-### Portfolio Website
+### Personal Website
 
-Developed a personal website by self-learning HTML and CSS. This website was deployed using GitHub Pages. It contains my resume, profile picture, and a list of courses I have taken.
+Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Vanilla JS, hosted on GitHub Pages with a custom domain. The site showcases my educational backgorund, skills, and work experiences, enhanced with modern UI from Tailwind and dynamic visuals via Particles.js. Features include detailed project sections, embedded social media links via Iconify, and a custom domain for a professional appearance.
 
 - **Progamming Languages:** HTML ∙ CSS
 - **Technologies:** GitHub
