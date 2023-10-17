@@ -45,9 +45,12 @@ Developed a chess engine that supports both human vs human and human vs AI modes
 
 Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Vanilla JS, hosted on GitHub Pages with a custom domain. The site showcases my educational backgorund, skills, and work experiences, enhanced with modern UI from Tailwind and dynamic visuals via Particles.js. Features include detailed project sections, embedded social media links via Iconify, and a custom domain for a professional appearance.
 
-- **Progamming Languages:** HTML ∙ CSS
-- **Technologies:** GitHub
-- **Skills Developed:** Self Learning ∙ Project Management
+- **Progamming Languages:** HTML ∙ CSS ∙ Javascript
+- **Technologies:** GitHub ∙ Tailwind CSS Framework ∙ Cloudflare 
+- **Skills Developed:** Front-end Web Development ∙ UI/UX Design  
+
+### [Gradebook Application](https://github.com/eddayyy/Gradebook-Application)
+
 
 ## Links
 [**LinkedIn**](https://www.linkedin.com/in/eduardong/)
