@@ -57,7 +57,5 @@ Developed a Python-based GUI program to assist educators in managing student gra
 -**Technologies:** Qt Framework 
 -**Skills Developed:** ADS ∙ System Design ∙ 
 
-
-
 ## Links
 [**LinkedIn**](https://www.linkedin.com/in/eduardong/)
