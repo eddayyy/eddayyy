@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Hi there! I'm **Eduardo Nunez**, a 4th year Computer Science student with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
+Hi there! I'm **Eduardo Nunez**, I hold a Bachelor of Science in Computer Science from CSUF with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
 
 ## Skills
 
