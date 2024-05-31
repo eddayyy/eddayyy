@@ -106,7 +106,7 @@ A dynamic online quiz platform inspired by Kahoot, developed collaboratively. It
 - **Technologies:** Firebase, Bootstrap, GitHub
 - **Skills Developed:** Web Development, Real-Time Interaction, Firebase Integration
 
-### [AlgoEngineering](https://github.com/eddayyy/AlgoEngineering)
+### [Algorithm Engineering](https://github.com/eddayyy/AlgoEngineering)
 
 Algorithm-focused Python projects developed through coursework.
 
