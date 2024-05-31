@@ -28,6 +28,7 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -36,6 +37,7 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -113,6 +115,14 @@ Algorithm-focused Python projects developed through coursework.
 - **Languages:** C++, Python
 - **Technologies:** GitHub
 - **Skills Developed:** Algorithm Design, Data Structures
+
+### [Photo Gallery App](https://github.com/eddayyy/PhotoGalleryApp)
+
+A Flask-based web application that allows users to securely manage and display their photo collections. Integrates functionalities such as user authentication, cookies, image uploading, and retrieval, using React for the frontend and Flask for the backend along with MongoDB for a NoSQL Databse.
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Technologies:** Flask, React, MongoDB, GitHub
+- **Skills Developed:** Full-Stack Web Development, Authentication, Database Management
 
 ## 💼 Experience
 
