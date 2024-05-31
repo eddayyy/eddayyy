@@ -1,61 +1,173 @@
 <div align="center">
 
-# Eduardo Nunez
+# Eduardo Nunez Gomez
+
+[![Website](https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardonunez.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/eddayyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardong/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardonunez.eng@gmail.com)
 
 </div>
 
-## Introduction
+## 👋 Introduction
 
-Hi there! I'm **Eduardo Nunez**, I hold a Bachelor of Science in Computer Science from CSUF with experience in C/C++, Python, Assembly, Data Structures, and Algorithms. I'm passionate about building software that solves real-world problems and makes a positive impact on people's lives.
+Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies, and I'm dedicated to creating software that solves real-world problems and makes a positive impact.
 
-## Skills
+## 💻 Skills
 
-- **Programming Languages:** C/C++ ∙ Python ∙ HTML ∙ CSS ∙ Javascript ∙ Assembly 
-- **Technologies:** Linux/UNIX ∙ Windows Subsystem for Linux ∙ AWS Lambda ∙ AWS S3 ∙ AWS EventBridge ∙
-MySQL ∙ GIT ∙ Slack ∙ Visual Studio
+### Programming Languages
 
-## Projects
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### [Twitter/X Automated Weather Bot](https://github.com/eddayyy/WeatherFul-Bot) 
+### Technologies
 
-Developed a Python-based automated system that tweets real-time weather updates for Fullerton, CA. These updates include sunrise / sunset times once a day, hourly weather updates, and weekly forecasts every Sunday. 
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Programming Languages:** Python
-- **Technlogies:** Github, Twitter's API Endpoints, Weatherbit's API Endpoints
-- **Skills Developed:** Experience with APIs
+## 🚀 Projects
 
-### [Tic-Tac-Toe Game with AI](https://github.com/eddayyy/TicTacToe)
+### [Stock Market Broker App](https://github.com/eddayyy/OptionBrew)
 
-Developed a Tic-Tac-Toe game with two versions, one for two human players and another with an AI opponent using the alpha-beta pruning algorithm. The project was developed solely in C++. The AI Runs off of the alpha-beta pruning algorithm.
+Designed and developed a comprehensive stock market broker application utilizing React and Django frameworks. Features real-time trading with WebSocket-based systems, secure user authentication, and data visualization charts.
 
-- **Programming Languages:** C++
+- **Languages:** JavaScript, Python
+- **Technologies:** ReactJS, Django, Node.js, Alpaca API, GitHub
+- **Skills Developed:** Full-Stack Web Development, Real-Time Systems, API Development, Web Security, WebSockets
+
+### [Twitter/X Automated Weather Bot](https://github.com/eddayyy/WeatherFul-Bot)
+
+Developed an automated Python-based Twitter bot, deployed on AWS Lambda, to provide real-time weather updates via Twitter.
+
+- **Languages:** Python
+- **Technologies:** AWS, Twitter/X API, Weatherbit API, GitHub
+- **Skills Developed:** API Integration, Cloud Computing, Automation
+
+### [Answer-D: A CSUF Q&A Platform](https://github.com/eddayyy/Answer-D)
+
+Developed a responsive, student-centric platform for CSUF students to post and interact with academic questions and answers.
+
+- **Languages:** JavaScript, HTML, CSS
 - **Technologies:** GitHub
-- **Skills Developed:** AI Algorithms ∙ Game Development
+- **Skills Developed:** Front-End Web Development, Agile Practices, Team Collaboration
 
-### Chess Engine (W.I.P)
+### [AI Powered TicTacToe](https://github.com/eddayyy/TicTacToe)
 
-Developed a chess engine that supports both human vs human and human vs AI modes. The project was built using C++ and the SDL library for the graphical interface. The AI opponent is powered by the alpha-beta pruning algorithm to optimize its decision-making process. Features include, AI component that can play against you or help you by suggesting good moves, legal move previews (blue squares represent legal moves for a selected piece), en passant, premoving, responsive piece drag and drop or click and drop. 
+Created a console-based two-player Tic-Tac-Toe game and an AI-enhanced version using Alpha-Beta Pruning and game state evaluation algorithms.
 
-- **Programming Languages:** C++
-- **Technologies:** GitHub, Visual Studio, SDL Library
-- **Skills Developed:** Computer Graphics, Algorithms, Data Structures, Object Oriented Programming, Dynamic Programming 
-
+- **Languages:** C++
+- **Technologies:** GitHub
+- **Skills Developed:** Algorithms, Data Structures, Asymptotic Notation (Time + Space Complexity) analysis
 
 ### [Personal Website](https://github.com/eddayyy/personal-website)
 
-Developed a responsive personal portfolio using HTML, CSS, Tailwind CSS, and Vanilla JS, hosted on GitHub Pages with a custom domain. The site showcases my educational backgorund, skills, and work experiences, enhanced with modern UI from Tailwind and dynamic visuals via Particles.js. Features include detailed project sections, embedded social media links via Iconify, and a custom domain for a professional appearance.
+Built an interactive and responsive personal portfolio using ReactJS, JavaScript, HTML5, CSS, and Tailwind CSS, hosted with a custom domain.
 
-- **Progamming Languages:** HTML ∙ CSS ∙ Javascript
-- **Technologies:** GitHub ∙ Tailwind CSS Framework ∙ Cloudflare 
-- **Skills Developed:** Front-end Web Development ∙ UI/UX Design  
+- **Languages:** HTML, CSS, JavaScript
+- **Technologies:** GitHub, ReactJS, Tailwind CSS, Cloudflare
+- **Skills Developed:** Front-end Web Development, UI/UX Design
 
 ### [Gradebook Application](https://github.com/eddayyy/Gradebook-Application)
 
-Developed a Python-based GUI program to assist educators in managing student grades efficiently. It aims to make the grading processes smooth, providing valuable insights into student and class performance through advanced data analysis. Features include import/export of CSV files, modification of student grades, recalculations of students' overall grade, export of statistics such as graphs, statistical analysis on an assignment basis, overall class grades. 
+Developed a Python-based GUI program to assist educators in managing student grades efficiently.
 
--**Programming Languages:** Python ∙ CSS 
--**Technologies:** Qt Framework 
--**Skills Developed:** ADS ∙ System Design ∙ 
+- **Languages:** Python, CSS
+- **Technologies:** Qt Framework, GitHub
+- **Skills Developed:** System Design, Algorithms, and Data Structures
 
-## Links
-[**LinkedIn**](https://www.linkedin.com/in/eduardong/)
+### [Assembly Projects](https://github.com/eddayyy/Assembly)
+
+Hybrid C, C++, Assembly projects developed through coursework.
+
+- **Languages:** C, C++, Assembly
+- **Technologies:** GitHub
+- **Skills Developed:** Low-Level Programming, Systems Programming
+
+### [Toohak](https://github.com/eddayyy/Toohak)
+
+A dynamic online quiz platform inspired by Kahoot, developed collaboratively. It offers engaging experiences for quiz creators and participants, suitable for educational and team-building activities.
+
+- **Languages:** JavaScript, HTML, CSS
+- **Technologies:** Firebase, Bootstrap, GitHub
+- **Skills Developed:** Web Development, Real-Time Interaction, Firebase Integration
+
+### [AlgoEngineering](https://github.com/eddayyy/AlgoEngineering)
+
+Algorithm-focused Python projects developed through coursework.
+
+- **Languages:** C++, Python
+- **Technologies:** GitHub
+- **Skills Developed:** Algorithm Design, Data Structures
+
+## 💼 Experience
+
+### California State University Fullerton
+
+**Research Assistant**  
+October 2023 – May 2024
+
+- Developed an AI-driven storytelling system using ReactJS, Django, AWS, JavaScript, Python, and OpenAI’s GPT API.
+- Designed and implemented RESTful APIs, enabling features such as user authentication and interactive story generation.
+- Utilized Axios for efficient API data fetching and state management with React Hooks.
+- Engineered a processing algorithm to parse and convert OpenAI’s GPT responses into a structured decision tree format.
+- Developed the front end using ReactJS, creating a responsive and intuitive user interface.
+- Collaborated closely with fellow research assistants and the lead researcher, enhancing communication and organizational skills.
+
+### Dreams For Schools
+
+**Stem Instructor/Mentor**  
+March 2023 – October 2023
+
+- Introduced Computer Science Principles and led 7th and 8th-grade students through mobile app development using Agile methodologies for the AppJamboree hosted by Dreams For Schools.
+- Maintained transparent communication with program coordinators and refined organizational skills to meet the demands of a 10-week development schedule.
+
+## 🎓 Education
+
+### California State University Fullerton
+
+**B.S. Computer Science**  
+Completed - May 2024
+
+- Academic Achievements: Dean’s List 2023, Engineering Social Justice: A Design Challenge Top 10 Finalist
+- Club Organizations: Association For Computing Machinery
+- Relevant Coursework:
+  - Computer Science Principles
+  - Intro to Programming
+  - Object-Oriented Programming
+  - Data Structures and Algorithms
+  - Python Programming
+  - Cybersecurity Foundations and Practices
+  - Computer Organization & Assembly Language
+  - Compilers and Languages
+  - File Structure & Database
+  - Algorithm Engineering
+  - Web Front-End Engineering
+  - Operating System Concepts
+  - Software Engineering
+  - Artificial Intelligence
+  - Principles of Computer Graphics
+  - Web Back-End Engineering
+  - Computer Communications
+  - Computational Bioinformatics
+
+## 🔗 Links
+
+[![Website](https://img.shields.io/badge/Website-Visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eduardonunez.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/eddayyy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardong/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:eduardonunez.eng@gmail.com)
