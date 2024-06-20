@@ -24,6 +24,10 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddayyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technologies
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
