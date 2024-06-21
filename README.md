@@ -16,11 +16,10 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 <table>
   <tr>
     <td>
-        <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api?username=eddayyy" />
-      </a>
+        <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api?username=eddayyy&theme=radical" />
     </td>
     <td>
-        <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api/top-langs?username=eddayyy&layout=compact&langs_count=8&card_width=320" />
+      <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api/top-langs?username=eddayyy&layout=compact&langs_count=8&card_width=320&hide=javascript,html&theme=radical" />
     </td>
   </tr>
 </table>
