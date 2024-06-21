@@ -26,7 +26,7 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddayyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-1oos.vercel.app/api/top-langs/?username=eddayyy&layout=compact)
 
 ### Technologies
 
