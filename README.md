@@ -13,17 +13,6 @@
 
 Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies, and I'm dedicated to creating software that solves real-world problems and makes a positive impact.
 
-<table>
-  <tr>
-    <td>
-        <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api?username=eddayyy&theme=radical" />
-    </td>
-    <td>
-      <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api/top-langs?username=eddayyy&layout=compact&langs_count=8&card_width=320&theme=radical" />
-    </td>
-  </tr>
-</table>
-
 ## 💻 Skills
 
 ### Programming Languages
@@ -34,6 +23,14 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+<table>
+  <tr>
+    <td>
+      <img height="200" align="center" src="https://github-readme-stats-1oos.vercel.app/api/top-langs?username=eddayyy&layout=compact&langs_count=8&card_width=320&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ### Technologies
 
