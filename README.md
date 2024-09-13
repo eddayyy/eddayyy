@@ -11,18 +11,20 @@
 
 ## 👋 Introduction
 
-Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies, and I'm dedicated to creating software that solves real-world problems and makes a positive impact.
+Hi there! I'm **Eduardo Nunez Gomez**, a passionate software engineer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies, and I'm dedicated to creating software that solves real-world problems, makes a positive impact, and creates business value. I strongly believe in having a growth mindset, continuously learning, and presenting my best self.
 
 ## 💻 Skills
 
 ### Programming Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <table>
   <tr>
@@ -51,6 +53,14 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software developer with a Ba
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 💼 Experience
+
+### Capital Group
+
+**Solutions Engineer (Software Engineer)**
+
+September 2024 - Present
+
+- W.I.P.
 
 ### California State University Fullerton
 
