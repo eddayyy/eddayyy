@@ -56,7 +56,7 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software engineer with a Bac
 
 ### Capital Group
 
-**Solutions Engineer**
+**Software Engineer**
 
 September 2024 - Present
 
