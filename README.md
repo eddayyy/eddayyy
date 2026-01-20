@@ -11,7 +11,7 @@
 
 ## 👋 Introduction
 
-Hi there! I'm **Eduardo Nunez Gomez**, a passionate software engineer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies, and I'm dedicated to creating software that solves real-world problems, makes a positive impact, and creates business value. I strongly believe in having a growth mindset, continuously learning, and presenting my best self.
+Hi there! I'm **Eduardo Nunez**, a passionate software engineer with a Bachelor of Science in Computer Science from California State University Fullerton. My expertise spans various programming languages and technologies. I'm dedicated to creating software that solves real-world problems, makes a positive impact, and creates value. I strongly believe in having a growth mindset, continuously learning, and pursuing my best self.
 
 ## 💻 Skills
 
@@ -56,11 +56,11 @@ Hi there! I'm **Eduardo Nunez Gomez**, a passionate software engineer with a Bac
 
 ### Capital Group
 
-**Software Engineer**
+**Software Development Engineer**
 
 September 2024 - Present
 
-- W.I.P.
+- loading . . .
 
 ### California State University Fullerton
 
